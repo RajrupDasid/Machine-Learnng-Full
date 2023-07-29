@@ -11,7 +11,8 @@
 # IPython
 profile_default/
 ipython_config.py
-
+unencrypted/*
+cnn-token.json
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
